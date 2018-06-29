@@ -1,7 +1,9 @@
 	body {
 		font-family: 'Source Sans Pro', sans-serif;
 	}
-
+h1 subheading{
+		color: #F4D5B0;
+	}
 	.col-sm-9 {
 		color: #B8BDB5;
 	}
@@ -11,18 +13,13 @@
     margin-right: auto;
     margin-left: auto;
 }
-	h1 {
-		color: #F4D5B0;
-	}
-	.row {
-    
-    color: orange;
-	}
 
 	a {
 		color: 	#BC8F8F;
 	}
-
+	.row {
+		color: #F4D5B0;
+	}
 	}
 	.navbar-default {
 		background-color: #FACFAD;
@@ -46,9 +43,7 @@
 		margin-bottom:10px;
 	}
 
-	.restaurant_heading {
-		color: pink;
-	}
+	
 
 	.Bao {
 		
