@@ -1,0 +1,51 @@
+	body {
+		font-family: 'Source Sans Pro', sans-serif;
+	}
+
+	.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+	
+	.row {
+    
+    color: orange;
+	}
+
+	a {
+		color: 	#BC8F8F;
+	}
+
+	}
+	.navbar-default {
+		background-color: #FACFAD;
+		border-color: #F8BD7F;s
+	}
+
+	.navbar-default .navbar-nav>li>a {
+	    color: #3E4E50;s
+	}
+
+	/*.subheading {
+		padding-top: 15px;
+		font-family: 'Source Sans Pro', sans-serif;
+		color: #3E4E50;
+		font-size: 20px;
+		margin-left: 20px;
+	}
+*/
+	.content img {
+		max-width: 400px;
+		margin-bottom:10px;
+	}
+
+	.restaurant_heading {
+		color: pink;
+	}
+
+	.Bao {
+		color: red;
+		
+	}
