@@ -2,13 +2,18 @@
 		font-family: 'Source Sans Pro', sans-serif;
 	}
 
+	.col-sm-9 {
+		color: #B8BDB5;
+	}
 	.container {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
 }
-	
+	h1 {
+		color: #F4D5B0;
+	}
 	.row {
     
     color: orange;
@@ -46,6 +51,6 @@
 	}
 
 	.Bao {
-		color: red;
+		
 		
 	}
